@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edison!</h1>
-<h3 align="center">A passionate frontend developer from Sacramento, CA</h3>
+<h3 align="center">A passionate Software Engineer from Sacramento, CA</h3>
 
 - 🔭 I’m currently working on [Genie](https://genie-7kp5.onrender.com/)
 
